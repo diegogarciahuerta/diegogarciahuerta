@@ -24,24 +24,24 @@ I also specialize on starting pipelines from scratch, from nada, from zero, with
 Here are some of my integrations:
 </p>
 <p>
+<a href="https://github.com/diegogarciahuerta/tk-blender">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogarciahuerta&repo=tk-blender&show_icons=true&theme=buefy" />
+</a>
+
 <a href="https://github.com/diegogarciahuerta/tk-substancedesigner">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogarciahuerta&repo=tk-substancedesigner&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/diegogarciahuerta/tk-substancepainter">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogarciahuerta&repo=tk-substancepainter&show_icons=true&theme=buefy" />
 </a>
-</p>
 
-<p>
 <a href="https://github.com/diegogarciahuerta/tk-harmony">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogarciahuerta&repo=tk-harmony&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/diegogarciahuerta/tk-krita">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogarciahuerta&repo=tk-krita&show_icons=true&theme=buefy" /
 </a>
-</p>
 
-<p>
 <a href="https://github.com/diegogarciahuerta/tk-natron">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogarciahuerta&repo=tk-natron&show_icons=true&theme=buefy" />
 </a>
@@ -55,7 +55,6 @@ Here are some of my integrations:
 :eyes: Which one should be next ?
 </p>
 
-[![](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-blender)](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-blender/vote)
 [![](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-storyboardpro)](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-storyboardpro/vote)
 [![](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-gimp)](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-gimp/vote)
 [![](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/other%20(send%20me%20an%20email!))](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/other%20(send%20me%20an%20email!)/vote)
