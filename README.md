@@ -55,6 +55,9 @@ Here are some of my integrations:
 :eyes: Which one should be next ?
 </p>
 
-[![](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-storyboardpro)](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-storyboardpro/vote)
-[![](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-gimp)](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/tk-gimp/vote)
-[![](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/other%20(send%20me%20an%20email!))](https://api.gh-polls.com/poll/01EJQ3Y4VFX58WTQJF7H5DC21A/other%20(send%20me%20an%20email!)/vote)
+<p><a href="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-storyboardpro/vote"><img src="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-storyboardpro" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-gimp/vote"><img src="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-gimp" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-gaffer/vote"><img src="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-gaffer" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-rumba/vote"><img src="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-rumba" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-other%20-%20Send%20me%20an%20email/vote"><img src="https://api.gh-polls.com/poll/01EQYQPYNC4NWS7YRCCBZZ8EK1/tk-other%20-%20Send%20me%20an%20email" alt=""></a>
+</p>
